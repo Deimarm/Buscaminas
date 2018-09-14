@@ -1,0 +1,9 @@
+Abrir y ejecutar proyecto:
+
+El programa se creo en red IDE 8.2
+
+En la herramienta de desarrollo NetsBeans 8.2,
+archivo de opcion - abrir archivo,
+seleccionar el archivo .java donde este alojado o guardado y aceptar.
+Para ejecutar: una vez cargado dentro del entorno de NetsBeans,
+ubicamos la opción (icono verde) ejecutar el proyecto.
